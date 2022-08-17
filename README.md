@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Nohalottt
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m NOUHAILA FARAJY
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning  JEE 
+- 💞️ I’m looking to collaborate on github
+- 📫 if you have any remarks on my work give me advice to develop my skills  and thanks 
 
 <!---
 Nohalottt/Nohalottt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
