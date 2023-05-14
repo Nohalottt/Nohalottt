@@ -1,6 +1,5 @@
 - 👋 Hi, I’m NOUHAILA FARAJY
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning  JEE 
 - 💞️ I’m looking to collaborate on github
 - 📫 if you have any remarks on my work give me advice to develop my skills  and thanks 
 
